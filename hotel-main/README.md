@@ -47,15 +47,21 @@ Network ------------------------Description
 
 /user/?sort=id-------------------Retrieves All user by specific field value in descending  
 
+/user/--------------------------create new entry
 
-========================================================================================================================
+/user/{id}----------------------Delete specific user based on it's ID
+
+/user/{id}----------------------update specific user based on it's ID
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 
 
 
 
 Database Tables
-========================
+-------------------
 
 
 CREATE TABLE `hotel` (
