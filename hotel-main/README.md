@@ -30,6 +30,13 @@ Network ------------------------Description
 
 /room/?sort=id------------------Retrieves All room by specific field value in ascending 
 
+/room/------------------------create new entry
+
+/room/{id}--------------------delete specific room based on it's ID
+
+/room/-----------------------update specific room based on it's ID
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 
 /user-------------------------- Retrieves all user
