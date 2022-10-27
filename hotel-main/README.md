@@ -17,19 +17,16 @@ Network ------------------------Description
 
 /hotel/--------------------------create new entry
 
-
 /hotel/{id}--------------------delete a specific hotel based on it's id
 
 /hotel/{id}--------------------update specific hotel based on it's id
 
+----------------------------------------------------------------------------------------------------------------------------------
 
 
 /room-------------------------- Retrieves All  rooms
 
-
-
 /room/{id} ---------------------Retrieves a specific room based on it's ID
-
 
 /room/?sort=id------------------Retrieves All room by specific field value in ascending 
 
