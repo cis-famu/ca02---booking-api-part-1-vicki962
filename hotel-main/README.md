@@ -15,6 +15,10 @@ Network ------------------------Description
 /hotel/?sort=name----------------Retrieves All hotels by specific field value in ascending 
 
 
+/hotel/----------------create new entry
+
+
+
 /room-------------------------- Retrieves All  rooms
 
 
