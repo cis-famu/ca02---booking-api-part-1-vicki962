@@ -15,7 +15,12 @@ Network ------------------------Description
 /hotel/?sort=name----------------Retrieves All hotels by specific field value in ascending 
 
 
-/hotel/----------------create new entry
+/hotel/--------------------------create new entry
+
+
+/hotel/{id}--------------------delete a specific hotel based on it's id
+
+/hotel/{id}--------------------update specific hotel based on it's id
 
 
 
